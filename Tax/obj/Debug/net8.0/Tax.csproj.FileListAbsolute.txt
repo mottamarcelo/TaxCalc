@@ -1,0 +1,14 @@
+C:\Users\motta\source\repos\Tax\bin\Debug\net8.0\Tax.exe
+C:\Users\motta\source\repos\Tax\bin\Debug\net8.0\Tax.deps.json
+C:\Users\motta\source\repos\Tax\bin\Debug\net8.0\Tax.runtimeconfig.json
+C:\Users\motta\source\repos\Tax\bin\Debug\net8.0\Tax.dll
+C:\Users\motta\source\repos\Tax\bin\Debug\net8.0\Tax.pdb
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.AssemblyInfoInputs.cache
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.AssemblyInfo.cs
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.csproj.CoreCompileInputs.cache
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.dll
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\refint\Tax.dll
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.pdb
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\Tax.genruntimeconfig.cache
+C:\Users\motta\source\repos\Tax\obj\Debug\net8.0\ref\Tax.dll
